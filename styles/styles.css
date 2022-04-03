@@ -56,8 +56,8 @@ section {
 .section {
   -webkit-transform: translateY(-100%) scale 0;
           transform: translateY(-100%) scale 0;
-  -webkit-transition: all 0.4s ease-in-out;
-  transition: all 0.4s ease-in-out;
+  -webkit-transition: all 0.9s ease-in-out;
+  transition: all 0.9s ease-in-out;
   background-color: var(--color-primary);
 }
 
@@ -98,8 +98,8 @@ section {
 
 .active {
   display: block;
-  -webkit-animation: scaleAnim 1s ease-in-out;
-          animation: scaleAnim 1s ease-in-out;
+  -webkit-animation: scaleAnim 0.5s ease-in-out;
+          animation: scaleAnim 0.5s ease-in-out;
 }
 
 @-webkit-keyframes scaleAnim {
@@ -181,5 +181,13 @@ section {
   font-size: 1.2rem;
   color: var(--color-grey-2);
   pointer-events: none;
+}
+
+/*Header content*/
+.header-content {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (1fr)[2];
+      grid-template-columns: repeat(2, 1fr);
 }
 /*# sourceMappingURL=styles.css.map */
