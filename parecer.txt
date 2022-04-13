@@ -1,9 +1,0 @@
-Acredito que temos que separar os problemas:
-
-1- Problemas técnicos que impedem a atuação correta do call center;
-2- Pedidos duplicados na Shopify;
-3- Pedidos que não aparecem na Shopify.
-
-Em todos os casos estas são as perguntas que devemos fazer:
-- Quantos casos tiveram destes 2 Parceiros? Tiveram mais Parceiros? Os casos 1, 2 e 3 foram repassados para a Programação
- / Guizinho? Qual foi o parecer? Prazo para a resolução? Plano de ação?
